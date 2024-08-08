@@ -1,4 +1,6 @@
 # Fruit_vegetable_recognition
+
+[Dataset Link](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
  
 ## Project Summary
 The Fruit and Vegetable Recognition project leverages deep learning techniques to accurately identify and classify various fruits and vegetables from images. By utilizing a convolutional neural network (CNN), the system processes visual data to distinguish between different types of produce. This project has practical applications in areas such as automated checkout systems in supermarkets, quality control in agriculture, and dietary tracking applications.
